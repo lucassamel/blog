@@ -29,3 +29,4 @@ namespace blog.Models
         [Write(false)]
         public List<Tag> Tags { get; set; }
     }
+}
