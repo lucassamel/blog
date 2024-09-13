@@ -13,7 +13,7 @@ namespace blog.Models
     {
         public User()
         {
-            Roles = new List<Role>();
+            Roles = [];
         }
 
         [Key]
